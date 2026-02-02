@@ -52,7 +52,8 @@ CSV (dataset público)
 
 🎯 Objetivo do Projeto
 
-O objetivo deste projeto é praticar análise de dados, visualização interativa e desenvolvimento de dashboards, simulando um cenário real de mercado. Ele demonstra boas práticas como:
+O objetivo deste projeto é praticar análise de dados, visualização interativa e desenvolvimento de dashboards,
+simulando um cenário real de mercado. Ele demonstra boas práticas como:
 
 organização de código,
 
@@ -71,7 +72,8 @@ cd seu-repositorio
 
 # Crie e ative o ambiente virtual
 python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
+source .venv/bin/activate  # Windows: 
+.venv\Scripts\activate
 
 # Instale as dependências
 pip install -r requirements.txt
